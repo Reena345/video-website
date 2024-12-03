@@ -1,0 +1,34 @@
+
+.main-part{
+    margin: 20px 40px;
+    background-color: dimgray;
+    
+}
+.main-h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: white;
+}
+
+
+
+.you-tube{
+    background-color: darkslategrey;
+    width:950px;
+    height: 900px;
+    margin: 0px 370px;
+}
+
+
+.maps{
+    border: 3px;
+    height: 900px;
+    width: 100%;
+    
+}
+.home{
+    margin:0px 630px;
+    width:600px;
+     height:450px;
+    
+}
